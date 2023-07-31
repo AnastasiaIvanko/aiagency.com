@@ -3607,8 +3607,8 @@ html {
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: 310px;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-around;
+    align-items: end;
     display: flex;
   }
   
