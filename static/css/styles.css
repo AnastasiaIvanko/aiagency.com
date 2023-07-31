@@ -3603,7 +3603,7 @@ html {
   
   .foto-about-me {
     min-height: 370px;
-    background-image: url("https://uploads-ssl.webflow.com/64528c51be2e7489cd440f7b/64a6cfd1ccd0a03f57b8697e_foto4.png");
+    background-image: url("/static/img/4.png");
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: 310px;
