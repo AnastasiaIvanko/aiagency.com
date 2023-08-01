@@ -3627,7 +3627,7 @@ html {
   
   .foto-one {
     min-height: 370px;
-    background-image: url("https://uploads-ssl.webflow.com/64528c51be2e7489cd440f7b/64aad23835018faa5a725e23_website/static/img/1.png");
+    background-image: url("/static/img/17.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: contain;
