@@ -241,7 +241,7 @@ html {
   
   img {
     max-width: 100%;
-    vertical-align: middle;
+    vertical-align: top;
     display: inline-block;
   }
   
