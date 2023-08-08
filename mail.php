@@ -4,8 +4,8 @@ if ($_POST[':']!=''){
   die('No bots!');
 }
 else{
-  $to = "mail@gmail.com"; // адрес куда отправлять письмо
-$subject = "Отправка формы с сайта такого-то"; // заголовок письма
+  $to = "anastasiaivankoagency@gmail.com"; // адрес куда отправлять письмо
+$subject = "Отправка формы с сайта Anastasia Ivanko Agency"; // заголовок письма
 $redirect = "./ok.html"; // адрес страницы, на которую нужно перейти после отправки письма
 
 foreach($_POST as $key => $value)
